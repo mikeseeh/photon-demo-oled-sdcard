@@ -1,0 +1,13 @@
+#spark.include
+
+# from current dir
+*.h
+*.ino
+*.cpp
+*.c
+
+# and from any subdirectories
+**/*.h
+**/*.ino
+**/*.cpp
+**/*.c
